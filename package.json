@@ -96,7 +96,7 @@
     "yaml": "^1.10.2"
   },
   "resolutions": {
-    "handlebars": "~4.5.3"
+    "handlebars": "~4.7.0"
   },
   "packageManager": "yarn@1.22.19"
 }
